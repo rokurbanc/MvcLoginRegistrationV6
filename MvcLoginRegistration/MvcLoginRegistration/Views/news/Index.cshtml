@@ -1,0 +1,66 @@
+﻿@model IEnumerable<MvcLoginRegistration.Models.news>
+
+@{
+    ViewBag.Title = "Index";
+    var Uid = Convert.ToInt32(Session["UserId"]);
+}
+
+<img src="http://shrani.si/f/2r/dv/3Ex3TXiq/logo.png" />
+
+<p>
+    @{ if (Session["UserId"] != null)
+        {
+            @Html.ActionLink("Create New", "Create")
+
+        }
+        if (Session["admin"] == null) {
+            Session["admin"] = "";
+        }
+    }
+
+
+
+</p>
+
+
+    <div class="row">
+        <div  >
+
+            @foreach (var item in Model)
+            {
+
+
+                <div class="thumbnai" >
+
+                    <div class="caption" style="float:left; background-color:lightgray; padding:20px; border-radius:5px; margin:10px;">
+                        <h3> <b> @Html.DisplayFor(modelItem => item.name)</b></h3>
+                        <p>  @Html.DisplayFor(modelItem => item.description)</p>
+                        <p>
+                            @if (item.uid == Uid)
+                            {
+                                @Html.ActionLink("Edit", "Edit", new { id = item.NewsId }) <br />
+                                @Html.ActionLink("Delete", "Delete", new { id = item.NewsId }) <br />
+
+                            }
+                            else if(Session["admin"].ToString() == "admin")
+                            {
+                                @Html.ActionLink("Edit", "Edit", new { id = item.NewsId }) <br />
+                                @Html.ActionLink("Delete", "Delete", new { id = item.NewsId ,@style =""  }) <br />
+
+                            }
+
+
+
+                            @Html.ActionLink("Details", "Details", new { id = item.NewsId }, new { @class = "btn btn-primary" })
+
+
+                        </p>
+                    </div>
+                </div>
+
+
+
+
+            }
+
+            </table>

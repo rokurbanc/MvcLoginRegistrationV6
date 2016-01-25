@@ -1,0 +1,43 @@
+﻿@model MvcLoginRegistration.Models.Picture
+
+@{
+    if (Session["UserId"] != null)
+    {
+
+        <h4>Hello @Session["Username"].ToString() </h4>
+
+  
+          
+              
+                <img   src="@Url.Content(String.Format("~/Content/images/{0}", Session["UserId"].ToString()+".jpg"))" onerror="this.src='/Content/images/d.png'" style="width:350px; display:inline-block" /><br />
+      
+        <div class="row" style="display:inline-block">
+            <div class="col-md-4">
+  
+                @using (Html.BeginForm(null, null, FormMethod.Post, new { enctype = "multipart/form-data" }))
+                {
+                    <table>
+                        <tr>
+                            <td>Picture: </td>
+                            <td><input type="file" name="File" id="File" /></td>
+                        </tr>
+                        <tr >
+                            <td colspan="2" align="center"><br /><input type="submit" name="submit" value="Upload" class="btn btn-primary"/></td>
+                        </tr>
+                    </table>
+
+                }
+
+            </div><br /> <br /> <br /> <br /> 
+            <td>OLD:<input type="password"  class="form-control" required/></td>
+            <td>NEW:<input type="password"  class="form-control" required/></td>
+            @Html.ActionLink("Change", "Logout", new { @class = "btn btn-primary" })
+
+
+
+
+
+
+        </div>
+        }
+    }

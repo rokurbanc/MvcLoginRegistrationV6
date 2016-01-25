@@ -1,0 +1,40 @@
+﻿@model MvcLoginRegistration.Models.news
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2 style="background-color:#428bca; border-radius:5px;">Details</h2>
+
+<div>
+    <h4>news</h4>
+    <hr />
+    <img src="@Url.Content(String.Format("~/Content/images/{0}", @Html.DisplayFor(model => model.uid)+".jpg"))" onerror="this.src='/Content/images/d.png'" style="width:350px; display:inline-block" /><br />
+
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.description)
+        </dd>
+        
+
+      
+       
+
+    </dl>
+</div>
+<p>
+   
+    @Html.ActionLink("Back to List", "Index")
+</p>

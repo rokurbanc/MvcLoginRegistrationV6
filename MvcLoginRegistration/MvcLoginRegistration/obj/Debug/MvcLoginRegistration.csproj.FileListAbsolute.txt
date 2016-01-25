@@ -1,0 +1,88 @@
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\csc.exe
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\System.Collections.Immutable.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\vbc.exe
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\VBCSCompiler.exe
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\VBCSCompiler.exe.config
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\MvcLoginRegistration.dll.config
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\MvcLoginRegistration.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\MvcLoginRegistration.pdb
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\Antlr3.Runtime.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\EntityFramework.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\EntityFramework.SqlServer.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\Microsoft.Web.Infrastructure.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\Newtonsoft.Json.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.Helpers.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.Mvc.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.Optimization.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.Razor.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.WebPages.Deployment.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.WebPages.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.WebPages.Razor.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\WebGrease.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\EntityFramework.xml
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\EntityFramework.SqlServer.xml
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.Helpers.xml
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.Mvc.xml
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.Optimization.xml
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.Razor.xml
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.WebPages.xml
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.WebPages.Deployment.xml
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.WebPages.Razor.xml
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\Antlr3.Runtime.pdb
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\bin\Newtonsoft.Json.xml
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\obj\Debug\MvcLoginRegistration.dll
+c:\users\rok\documents\visual studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\obj\Debug\MvcLoginRegistration.pdb
+C:\Users\Rok\Documents\Visual Studio 2015\Projects\MvcLoginRegistration\MvcLoginRegistration\obj\Debug\MvcLoginRegistration.csprojResolveAssemblyReference.cache
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\csc.exe
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\vbc.exe
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\VBCSCompiler.exe
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\MvcLoginRegistration.dll.config
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\MvcLoginRegistration.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\MvcLoginRegistration.pdb
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\Antlr3.Runtime.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\EntityFramework.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\EntityFramework.SqlServer.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\Newtonsoft.Json.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.Helpers.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.Mvc.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.Optimization.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.Razor.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.WebPages.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.WebPages.Razor.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\WebGrease.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\EntityFramework.xml
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\EntityFramework.SqlServer.xml
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.Helpers.xml
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.Mvc.xml
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.Optimization.xml
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.Razor.xml
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.WebPages.xml
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\System.Web.WebPages.Razor.xml
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\Antlr3.Runtime.pdb
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\bin\Newtonsoft.Json.xml
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\obj\Debug\MvcLoginRegistration.csprojResolveAssemblyReference.cache
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\obj\Debug\MvcLoginRegistration.dll
+C:\Users\aless\Downloads\MvcLoginRegistrationV6\MvcLoginRegistration\MvcLoginRegistration\obj\Debug\MvcLoginRegistration.pdb
